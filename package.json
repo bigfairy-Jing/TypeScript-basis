@@ -1,0 +1,23 @@
+{
+  "name": "typescipt",
+  "version": "1.0.0",
+  "description": "\"# TypeScript\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigfairy-Jing/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigfairy-Jing/TypeScript/issues"
+  },
+  "homepage": "https://github.com/bigfairy-Jing/TypeScript#readme",
+  "dependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
